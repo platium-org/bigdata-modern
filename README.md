@@ -2,10 +2,10 @@
 
 * Hazelcast
 * Apache Tomcat
-*  Apache Storm
-*  Apache Kudu
+* Apache Storm
+* Apache Kudu
+* Apache Kafka
 
 Coming soon:  
     Apache Impala
-    Apache Kafka
     Apache MADlib
