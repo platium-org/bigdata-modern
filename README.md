@@ -5,7 +5,7 @@
 * Apache Storm
 * Apache Kudu
 * Apache Kafka
+* Apache Impala
 
 Coming soon:  
-    Apache Impala
     Apache MADlib
