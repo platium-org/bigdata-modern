@@ -6,6 +6,5 @@
 * Apache Kudu
 * Apache Kafka
 * Apache Impala
-
-Coming soon:  
-    Apache MADlib
+* Apache MADlib
+    
